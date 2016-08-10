@@ -1,3 +1,5 @@
 First text added.
 
 Adding some more text.
+
+Making a change to test diff and commit and revision history.
